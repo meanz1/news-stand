@@ -1,0 +1,16 @@
+// color
+$border-grey: rgb(211, 211, 211);
+$light-grey: rgb(251, 251, 251);
+
+// mixin
+@mixin flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@mixin flex-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

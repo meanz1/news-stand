@@ -16,11 +16,9 @@ const refreshPage = () => {
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  @include flex-between;
   padding: 20px 0;
 }
 .header h1 {

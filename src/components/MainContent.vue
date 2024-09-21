@@ -39,15 +39,13 @@ const changePressState = (message) => {
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .container {
   padding: 20px 0;
 }
 
 .content-menu {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  @include flex-between;
 }
 
 .content-title {
@@ -96,12 +94,12 @@ const changePressState = (message) => {
 }
 
 .grid-item {
-  border: 1px solid rgb(211, 211, 211);
+  border: 1px solid $border-grey;
   height: 100px;
 }
 
 .list-container {
-  border: 1px solid rgb(211, 211, 211);
+  border: 1px solid $border-grey;
   height: 100%;
 }
 </style>

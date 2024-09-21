@@ -9,11 +9,9 @@
 import RollingEachNews from './RollingEachNews.vue'
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .rolling-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  @include flex-center;
   gap: 20px;
   padding: 20px 0;
 }

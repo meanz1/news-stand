@@ -7,12 +7,12 @@
 
 <script setup></script>
 
-<style scoped>
+<style scoped lang="scss">
 .news-container {
   padding: 20px;
   width: 50%;
-  background-color: rgb(246, 246, 246);
-  border: 1px solid rgb(211, 211, 211);
+  background-color: $light-grey;
+  border: 1px solid $border-grey;
 }
 
 .press {
