@@ -1,9 +1,16 @@
 <template>
-  <MainView />
+  <div class="main-container">
+    <MainView />
+  </div>
 </template>
 
 <script setup>
 import MainView from './views/MainView.vue'
 </script>
 
-<style scoped></style>
+<style scoped>
+.main-container {
+  width: 80%;
+  margin: 0 auto;
+}
+</style>
