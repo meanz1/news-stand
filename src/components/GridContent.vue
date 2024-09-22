@@ -1,5 +1,15 @@
 <template>
   <div v-if="isAllPress" class="grid-container">
+    <SubButton
+      text="구독하기"
+      width="100px"
+      height="40px"
+      radius="17px"
+      bgColor="rgb(211, 211, 211)"
+      display="flex"
+      justifyCotent="center"
+      alignItem="center"
+    ></SubButton>
     <div v-for="(elem, index) in paginatedNews" :key="index" class="grid-item">
       <img :src="isDarkMode ? elem.darkSrc : elem.lightSrc" class="grid-item-logo" />
     </div>
@@ -14,6 +24,7 @@
 
 <script setup>
 import newsList from '@/assets/data/newsList.json'
+import SubButton from '@/utils/SubButton.vue'
 import { computed } from 'vue'
 import { useStore } from 'vuex'
 
