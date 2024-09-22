@@ -33,6 +33,7 @@ const paginatedNews = computed(() => {
 }
 
 .grid-item {
+  @include flex-center;
   border: 1px solid $border-grey;
   height: 100px;
   cursor: pointer;
