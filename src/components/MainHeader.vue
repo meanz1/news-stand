@@ -25,6 +25,10 @@ const refreshPage = () => {
   display: flex;
   align-items: center;
   gap: 10px;
+
+  span {
+    font-weight: bold;
+  }
 }
 
 .el-icon {

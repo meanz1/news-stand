@@ -2,12 +2,34 @@
   <div class="container">
     <div class="content-menu">
       <div class="content-title">
-        <h3 style="cursor: pointer" @click="changePressState('all')">전체 언론사</h3>
-        <h3 style="cursor: pointer" @click="changePressState('mine')">내가 구독한 언론사</h3>
+        <h3
+          style="cursor: pointer"
+          :style="{ fontWeight: isAllPress ? 'bold' : 'normal' }"
+          @click="changePressState('all')"
+        >
+          전체 언론사
+        </h3>
+        <h3
+          style="cursor: pointer"
+          :style="{ fontWeight: !isAllPress ? 'bold' : 'normal' }"
+          @click="changePressState('mine')"
+        >
+          내가 구독한 언론사
+        </h3>
       </div>
       <div class="content-icon">
-        <el-icon style="font-size: 25px" @click="changeViewState('list')"><List /></el-icon>
-        <el-icon style="font-size: 25px" @click="changeViewState('grid')"><Grid /></el-icon>
+        <el-icon
+          style="font-size: 25px"
+          :style="{ color: isGridView ? 'black' : 'rgb(64, 158, 255)' }"
+          @click="changeViewState('list')"
+          ><List
+        /></el-icon>
+        <el-icon
+          style="font-size: 25px"
+          :style="{ color: !isGridView ? 'black' : 'rgb(64, 158, 255)' }"
+          @click="changeViewState('grid')"
+          ><Grid
+        /></el-icon>
       </div>
     </div>
     <div class="content-src">
@@ -26,14 +48,14 @@
 
 <script setup>
 import { useStore } from 'vuex'
-import { computed, ref } from 'vue'
+import { computed } from 'vue'
 
 import GridContent from './GridContent.vue'
 import ListContent from './ListContent.vue'
 const store = useStore()
 
-const isGridView = ref(store.state.content.isGridView)
-
+const isGridView = computed(() => store.state.content.isGridView)
+const isAllPress = computed(() => store.state.content.isAllPress)
 const currentPage = computed(() => store.state.user.currentPage)
 const maxPage = 4
 
