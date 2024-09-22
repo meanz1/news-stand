@@ -11,31 +11,46 @@
       </div>
     </div>
     <div class="content-src">
-      <el-icon class="left-arrow-icon"><ArrowLeft /></el-icon>
-      <div v-if="isGridView" class="grid-container">
-        <div v-for="n in 24" :key="n" class="grid-item"></div>
-      </div>
-      <div v-else class="list-container"></div>
+      <el-icon v-if="currentPage !== 1" class="left-arrow-icon" @click="prevPage"
+        ><ArrowLeft
+      /></el-icon>
+      <GridContent v-if="isGridView" />
+      <ListContent v-else />
 
-      <el-icon class="right-arrow-icon"><ArrowRight /></el-icon>
+      <el-icon v-if="currentPage !== maxPage" class="right-arrow-icon" @click="nextPage"
+        ><ArrowRight
+      /></el-icon>
     </div>
   </div>
 </template>
 
 <script setup>
 import { useStore } from 'vuex'
-import { ref } from 'vue'
+import { computed, ref } from 'vue'
+
+import GridContent from './GridContent.vue'
+import ListContent from './ListContent.vue'
 const store = useStore()
 
 const isGridView = ref(store.state.content.isGridView)
-const isAllPress = ref(store.state.content.isGridView)
+
+const currentPage = computed(() => store.state.user.currentPage)
+const maxPage = 4
 
 const changeViewState = (message) => {
-  isGridView.value = message === 'grid' ? true : false
+  store.dispatch('setViewState', message === 'grid' ? true : false)
 }
 
 const changePressState = (message) => {
-  isAllPress.value = message === 'all' ? true : false
+  store.dispatch('setPressState', message === 'all' ? true : false)
+}
+
+const prevPage = () => {
+  store.dispatch('setCurrentPage', currentPage.value - 1)
+}
+
+const nextPage = () => {
+  store.dispatch('setCurrentPage', currentPage.value + 1)
 }
 </script>
 
@@ -84,22 +99,5 @@ const changePressState = (message) => {
   padding-top: 20px;
   position: relative;
   height: 400px;
-}
-
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(4, 1fr);
-  height: 100%;
-}
-
-.grid-item {
-  border: 1px solid $border-grey;
-  height: 100px;
-}
-
-.list-container {
-  border: 1px solid $border-grey;
-  height: 100%;
 }
 </style>

@@ -5,14 +5,19 @@ export default {
     isAllPress: true // 전체 언론사인지
   },
   mutations: {
-    SET_USER_STATE(state, newState) {
-      state.isGridView = newState.isGridView
-      state.isAllPress = newState.isAllPress
+    SET_VIEW_STATE(state, newState) {
+      state.isGridView = newState
+    },
+    SET_PRESS_STATE(state, newState) {
+      state.isAllPress = newState
     }
   },
   actions: {
-    setUserState({ commit }, newState) {
-      commit('SET_USER_STATE', newState)
+    setViewState({ commit }, newState) {
+      commit('SET_VIEW_STATE', newState)
+    },
+    setPressState({ commit }, newState) {
+      commit('SET_PRESS_STATE', newState)
     }
   }
 }

@@ -2,7 +2,6 @@
   <div class="switch-container">
     <el-switch
       v-model="isDarkMode"
-      @click="handleSwitchMode"
       class="ml-2"
       :active-action-icon="Moon"
       active-text="Dark mode"
@@ -20,16 +19,17 @@ import MainHeader from '../components/MainHeader.vue'
 import RollingNews from '../components/RollingNews.vue'
 import MainContent from '../components/MainContent.vue'
 import { Sunny, Moon } from '@element-plus/icons-vue'
-import { ref } from 'vue'
+import { computed } from 'vue'
 import { useStore } from 'vuex'
 const store = useStore()
-const isDarkMode = ref(store.state.user.isDarkMode)
 
-const handleSwitchMode = () => {
-  isDarkMode.value = !!isDarkMode.value
-}
+const isDarkMode = computed({
+  get: () => store.state.user.isDarkMode,
+  set: (value) => {
+    store.dispatch('setUserMode', value)
+  }
+})
 </script>
-
 <style lang="scss" scoped>
 .switch-container {
   position: relative;

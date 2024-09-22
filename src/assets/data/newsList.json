@@ -1,0 +1,2018 @@
+[
+  {
+    "id": 1,
+    "name": "YTN 사이언스",
+    "darkSrc": "/images/pressLogo/dark/img1.svg",
+    "lightSrc": "/images/pressLogo/light/img1.svg",
+    "isSub": false,
+    "category": "종합/경제",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "1이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "1'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "1경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "1한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "1저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "1특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Able뉴스",
+    "darkSrc": "/images/pressLogo/dark/img2.svg",
+    "lightSrc": "/images/pressLogo/light/img2.svg",
+    "isSub": false,
+    "category": "방송/통신",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "2이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "2'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "2경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "2한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "2저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "2특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "뉴스토마토",
+    "darkSrc": "/images/pressLogo/dark/img3.svg",
+    "lightSrc": "/images/pressLogo/light/img3.svg",
+    "isSub": false,
+    "category": "IT",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "3이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "3'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "3경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "3한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "3저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "3특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "데일리한국",
+    "darkSrc": "/images/pressLogo/dark/img4.svg",
+    "lightSrc": "/images/pressLogo/light/img4.svg",
+    "isSub": false,
+    "category": "영자지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "4이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "4'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "4경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "4한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "4저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "4특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "시사오늘",
+    "darkSrc": "/images/pressLogo/dark/img5.svg",
+    "lightSrc": "/images/pressLogo/light/img5.svg",
+    "isSub": false,
+    "category": "스포츠/연예",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "5이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "5'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "5경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "5한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "5저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "5특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "대전방송",
+    "darkSrc": "/images/pressLogo/dark/img6.svg",
+    "lightSrc": "/images/pressLogo/light/img6.svg",
+    "isSub": false,
+    "category": "매거진/전문지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "6이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "6'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "6경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "6한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "6저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "6특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "이코노타임즈",
+    "darkSrc": "/images/pressLogo/dark/img7.svg",
+    "lightSrc": "/images/pressLogo/light/img7.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "7이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "7'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "7경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "7한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "7저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "7특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "독서신문",
+    "darkSrc": "/images/pressLogo/dark/img8.svg",
+    "lightSrc": "/images/pressLogo/light/img8.svg",
+    "isSub": false,
+    "category": "종합/경제",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "8이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "8'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "8경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "8한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "8저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "8특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "산",
+    "darkSrc": "/images/pressLogo/dark/img9.svg",
+    "lightSrc": "/images/pressLogo/light/img9.svg",
+    "isSub": false,
+    "category": "방송/통신",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "9이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "9'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "9경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "9한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "9저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "9특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "시사 IN",
+    "darkSrc": "/images/pressLogo/dark/img10.svg",
+    "lightSrc": "/images/pressLogo/light/img10.svg",
+    "isSub": false,
+    "category": "스포츠/연예",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "10이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "10'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "10경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "10한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "10저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "10특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "한국경제",
+    "darkSrc": "/images/pressLogo/dark/img11.svg",
+    "lightSrc": "/images/pressLogo/light/img11.svg",
+    "isSub": false,
+    "category": "매거진/전문지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "11이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "11'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "11경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "11한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "11저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "11특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "NEWSIS",
+    "darkSrc": "/images/pressLogo/dark/img12.svg",
+    "lightSrc": "/images/pressLogo/light/img12.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "12이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "12'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "12경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "12한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "12저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "12특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "동아일보",
+    "darkSrc": "/images/pressLogo/dark/img13.svg",
+    "lightSrc": "/images/pressLogo/light/img13.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "13이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "13'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "13경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "13한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "13저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "13특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "KBS",
+    "darkSrc": "/images/pressLogo/dark/img14.svg",
+    "lightSrc": "/images/pressLogo/light/img14.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "14이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "14'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "14경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "14한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "14저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "14특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "BLOTER",
+    "darkSrc": "/images/pressLogo/dark/img15.svg",
+    "lightSrc": "/images/pressLogo/light/img15.svg",
+    "isSub": false,
+    "category": "종합/경제",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "15이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "15'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "15경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "15한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "15저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "15특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "한국경제TV",
+    "darkSrc": "/images/pressLogo/dark/img16.svg",
+    "lightSrc": "/images/pressLogo/light/img16.svg",
+    "isSub": false,
+    "category": "방송/통신",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "16이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "16'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "16경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "16한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "16저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "16특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "전자신문",
+    "darkSrc": "/images/pressLogo/dark/img17.svg",
+    "lightSrc": "/images/pressLogo/light/img17.svg",
+    "isSub": false,
+    "category": "IT",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "17이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "17'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "17경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "17한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "17저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "17특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "스포츠조선",
+    "darkSrc": "/images/pressLogo/dark/img18.svg",
+    "lightSrc": "/images/pressLogo/light/img18.svg",
+    "isSub": false,
+    "category": "영자지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "18이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "18'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "18경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "18한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "18저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "18특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "서울신문",
+    "darkSrc": "/images/pressLogo/dark/img19.svg",
+    "lightSrc": "/images/pressLogo/light/img19.svg",
+    "isSub": false,
+    "category": "스포츠/연예",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "19이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "19'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "19경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "19한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "19저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "19특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "중앙일보",
+    "darkSrc": "/images/pressLogo/dark/img20.svg",
+    "lightSrc": "/images/pressLogo/light/img20.svg",
+    "isSub": false,
+    "category": "매거진/전문지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "20이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "20'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "20경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "20한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "20저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "20특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "노컷뉴스",
+    "darkSrc": "/images/pressLogo/dark/img21.svg",
+    "lightSrc": "/images/pressLogo/light/img21.svg",
+    "isSub": false,
+    "category": "종합/경제",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "21이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "21'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "21경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "21한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "21저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "21특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "프레시안",
+    "darkSrc": "/images/pressLogo/dark/img22.svg",
+    "lightSrc": "/images/pressLogo/light/img22.svg",
+    "isSub": false,
+    "category": "IT",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "22이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "22'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "22경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "22한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "22저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "22특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "sportalkorea",
+    "darkSrc": "/images/pressLogo/dark/img23.svg",
+    "lightSrc": "/images/pressLogo/light/img23.svg",
+    "isSub": false,
+    "category": "IT",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "23이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "23'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "23경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "23한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "23저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "23특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "한국일보",
+    "darkSrc": "/images/pressLogo/dark/img24.svg",
+    "lightSrc": "/images/pressLogo/light/img24.svg",
+    "isSub": false,
+    "category": "영자지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "24이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "24'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "24경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "24한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "24저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "24특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "여성경제신문",
+    "darkSrc": "/images/pressLogo/dark/img25.svg",
+    "lightSrc": "/images/pressLogo/light/img25.svg",
+    "isSub": false,
+    "category": "스포츠/연예",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "25이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "25'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "25경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "25한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "25저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "25특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "IT조선",
+    "darkSrc": "/images/pressLogo/dark/img26.svg",
+    "lightSrc": "/images/pressLogo/light/img26.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "26이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "26'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "26경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "26한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "26저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "26특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "철강금속신문",
+    "darkSrc": "/images/pressLogo/dark/img27.svg",
+    "lightSrc": "/images/pressLogo/light/img27.svg",
+    "isSub": false,
+    "category": "매거진/전문지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "27이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "27'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "27경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "27한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "27저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "27특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "정신의학신문",
+    "darkSrc": "/images/pressLogo/dark/img28.svg",
+    "lightSrc": "/images/pressLogo/light/img28.svg",
+    "isSub": false,
+    "category": "종합/경제",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "28이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "28'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "28경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "28한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "28저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "28특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "뉴스포스트",
+    "darkSrc": "/images/pressLogo/dark/img29.svg",
+    "lightSrc": "/images/pressLogo/light/img29.svg",
+    "isSub": false,
+    "category": "종합/경제",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "29이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "29'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "29경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "29한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "29저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "29특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "씨네21",
+    "darkSrc": "/images/pressLogo/dark/img30.svg",
+    "lightSrc": "/images/pressLogo/light/img30.svg",
+    "isSub": false,
+    "category": "방송/통신",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "30이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "30'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "30경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "30한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "30저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "30특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "정책프리핑",
+    "darkSrc": "/images/pressLogo/dark/img31.svg",
+    "lightSrc": "/images/pressLogo/light/img31.svg",
+    "isSub": false,
+    "category": "IT",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "31이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "31'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "31경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "31한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "31저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "31특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "텐아시아",
+    "darkSrc": "/images/pressLogo/dark/img32.svg",
+    "lightSrc": "/images/pressLogo/light/img32.svg",
+    "isSub": false,
+    "category": "영자지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "32이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "32'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "32경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "32한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "32저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "32특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "MK스포츠",
+    "darkSrc": "/images/pressLogo/dark/img33.svg",
+    "lightSrc": "/images/pressLogo/light/img33.svg",
+    "isSub": false,
+    "category": "스포츠/연예",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "33이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "33'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "33경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "33한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "33저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "33특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "MONDE",
+    "darkSrc": "/images/pressLogo/dark/img34.svg",
+    "lightSrc": "/images/pressLogo/light/img34.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "34이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "34'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "34경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "34한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "34저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "34특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "BBS NEWS",
+    "darkSrc": "/images/pressLogo/dark/img35.svg",
+    "lightSrc": "/images/pressLogo/light/img35.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "35이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "35'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "35경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "35한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "35저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "35특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "티브이데일리",
+    "darkSrc": "/images/pressLogo/dark/img36.svg",
+    "lightSrc": "/images/pressLogo/light/img36.svg",
+    "isSub": false,
+    "category": "종합/경제",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "36이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "36'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "36경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "36한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "36저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "36특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "TV Report",
+    "darkSrc": "/images/pressLogo/dark/img37.svg",
+    "lightSrc": "/images/pressLogo/light/img37.svg",
+    "isSub": false,
+    "category": "방송/통신",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "37이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "37'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "37경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "37한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "37저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "37특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Forbes",
+    "darkSrc": "/images/pressLogo/dark/img38.svg",
+    "lightSrc": "/images/pressLogo/light/img38.svg",
+    "isSub": false,
+    "category": "IT",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "38이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "38'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "38경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "38한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "38저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "38특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "주간경향",
+    "darkSrc": "/images/pressLogo/dark/img39.svg",
+    "lightSrc": "/images/pressLogo/light/img39.svg",
+    "isSub": false,
+    "category": "영자지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "39이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "39'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "39경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "39한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "39저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "39특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "비즈한국",
+    "darkSrc": "/images/pressLogo/dark/img40.svg",
+    "lightSrc": "/images/pressLogo/light/img40.svg",
+    "isSub": false,
+    "category": "스포츠/연예",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "40이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "40'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "40경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "40한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "40저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "40특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "metro",
+    "darkSrc": "/images/pressLogo/dark/img41.svg",
+    "lightSrc": "/images/pressLogo/light/img41.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "41이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "41'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "41경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "41한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "41저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "41특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "JTBC",
+    "darkSrc": "/images/pressLogo/dark/img42.svg",
+    "lightSrc": "/images/pressLogo/light/img42.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "42이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "42'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "42경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "42한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "42저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "42특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "조선Biz",
+    "darkSrc": "/images/pressLogo/dark/img43.svg",
+    "lightSrc": "/images/pressLogo/light/img43.svg",
+    "isSub": false,
+    "category": "종합/경제",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "한겨레",
+    "darkSrc": "/images/pressLogo/dark/img44.svg",
+    "lightSrc": "/images/pressLogo/light/img44.svg",
+    "isSub": false,
+    "category": "방송/통신",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "연합뉴스TV",
+    "darkSrc": "/images/pressLogo/dark/img45.svg",
+    "lightSrc": "/images/pressLogo/light/img45.svg",
+    "isSub": false,
+    "category": "IT",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "미디어오늘",
+    "darkSrc": "/images/pressLogo/dark/img46.svg",
+    "lightSrc": "/images/pressLogo/light/img46.svg",
+    "isSub": false,
+    "category": "영자지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "디지털타임스",
+    "darkSrc": "/images/pressLogo/dark/img47.svg",
+    "lightSrc": "/images/pressLogo/light/img47.svg",
+    "isSub": false,
+    "category": "스포츠/연예",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "OSEN",
+    "darkSrc": "/images/pressLogo/dark/img48.svg",
+    "lightSrc": "/images/pressLogo/light/img48.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "소년한국일보",
+    "darkSrc": "/images/pressLogo/dark/img49.svg",
+    "lightSrc": "/images/pressLogo/light/img49.svg",
+    "isSub": false,
+    "category": "매거진/전문지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "OBS",
+    "darkSrc": "/images/pressLogo/dark/img50.svg",
+    "lightSrc": "/images/pressLogo/light/img50.svg",
+    "isSub": false,
+    "category": "종합/경제",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "맥스무비",
+    "darkSrc": "/images/pressLogo/dark/img51.svg",
+    "lightSrc": "/images/pressLogo/light/img51.svg",
+    "isSub": false,
+    "category": "방송/통신",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "엑스포츠뉴스",
+    "darkSrc": "/images/pressLogo/dark/img52.svg",
+    "lightSrc": "/images/pressLogo/light/img52.svg",
+    "isSub": false,
+    "category": "IT",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "서울파이낸스",
+    "darkSrc": "/images/pressLogo/dark/img53.svg",
+    "lightSrc": "/images/pressLogo/light/img53.svg",
+    "isSub": false,
+    "category": "영자지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "한국대학신문",
+    "darkSrc": "/images/pressLogo/dark/img54.svg",
+    "lightSrc": "/images/pressLogo/light/img54.svg",
+    "isSub": false,
+    "category": "스포츠/연예",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "datanews",
+    "darkSrc": "/images/pressLogo/dark/img55.svg",
+    "lightSrc": "/images/pressLogo/light/img55.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "DigitalToday",
+    "darkSrc": "/images/pressLogo/dark/img56.svg",
+    "lightSrc": "/images/pressLogo/light/img56.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "시사위크",
+    "darkSrc": "/images/pressLogo/dark/img57.svg",
+    "lightSrc": "/images/pressLogo/light/img57.svg",
+    "isSub": false,
+    "category": "종합/경제",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "YTN",
+    "darkSrc": "/images/pressLogo/dark/img58.svg",
+    "lightSrc": "/images/pressLogo/light/img58.svg",
+    "isSub": false,
+    "category": "방송/통신",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "MBN",
+    "darkSrc": "/images/pressLogo/dark/img59.svg",
+    "lightSrc": "/images/pressLogo/light/img59.svg",
+    "isSub": false,
+    "category": "IT",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "매일경제",
+    "darkSrc": "/images/pressLogo/dark/img60.svg",
+    "lightSrc": "/images/pressLogo/light/img60.svg",
+    "isSub": false,
+    "category": "영자지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "오마이뉴스",
+    "darkSrc": "/images/pressLogo/dark/img61.svg",
+    "lightSrc": "/images/pressLogo/light/img61.svg",
+    "isSub": false,
+    "category": "스포츠/연예",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "SBS",
+    "darkSrc": "/images/pressLogo/dark/img62.svg",
+    "lightSrc": "/images/pressLogo/light/img62.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "머니투데이",
+    "darkSrc": "/images/pressLogo/dark/img63.svg",
+    "lightSrc": "/images/pressLogo/light/img63.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "마이데일리",
+    "darkSrc": "/images/pressLogo/dark/img64.svg",
+    "lightSrc": "/images/pressLogo/light/img64.svg",
+    "isSub": false,
+    "category": "종합/경제",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "ZDNET Korea",
+    "darkSrc": "/images/pressLogo/dark/img65.svg",
+    "lightSrc": "/images/pressLogo/light/img65.svg",
+    "isSub": false,
+    "category": "방송/통신",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "경향신문",
+    "darkSrc": "/images/pressLogo/dark/img66.svg",
+    "lightSrc": "/images/pressLogo/light/img66.svg",
+    "isSub": false,
+    "category": "IT",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "일간스포츠",
+    "darkSrc": "/images/pressLogo/dark/img67.svg",
+    "lightSrc": "/images/pressLogo/light/img67.svg",
+    "isSub": false,
+    "category": "영자지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "국민일보",
+    "darkSrc": "/images/pressLogo/dark/img68.svg",
+    "lightSrc": "/images/pressLogo/light/img68.svg",
+    "isSub": false,
+    "category": "스포츠/연예",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "뉴데일리",
+    "darkSrc": "/images/pressLogo/dark/img69.svg",
+    "lightSrc": "/images/pressLogo/light/img69.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "뉴스타파",
+    "darkSrc": "/images/pressLogo/dark/img70.svg",
+    "lightSrc": "/images/pressLogo/light/img70.svg",
+    "isSub": false,
+    "category": "매거진/전문지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "MBC",
+    "darkSrc": "/images/pressLogo/dark/img71.svg",
+    "lightSrc": "/images/pressLogo/light/img71.svg",
+    "isSub": false,
+    "category": "종합/경제",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "한국헤럴드",
+    "darkSrc": "/images/pressLogo/dark/img72.svg",
+    "lightSrc": "/images/pressLogo/light/img72.svg",
+    "isSub": false,
+    "category": "방송/통신",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "KNN",
+    "darkSrc": "/images/pressLogo/dark/img73.svg",
+    "lightSrc": "/images/pressLogo/light/img73.svg",
+    "isSub": false,
+    "category": "IT",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "CEO스코어데일리",
+    "darkSrc": "/images/pressLogo/dark/img74.svg",
+    "lightSrc": "/images/pressLogo/light/img74.svg",
+    "isSub": false,
+    "category": "영자지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "BUSINESS POST",
+    "darkSrc": "/images/pressLogo/dark/img75.svg",
+    "lightSrc": "/images/pressLogo/light/img75.svg",
+    "isSub": false,
+    "category": "스포츠/연예",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "에너지경제",
+    "darkSrc": "/images/pressLogo/dark/img76.svg",
+    "lightSrc": "/images/pressLogo/light/img76.svg",
+    "isSub": false,
+    "category": "매거진/전문지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "조이뉴스24",
+    "darkSrc": "/images/pressLogo/dark/img77.svg",
+    "lightSrc": "/images/pressLogo/light/img77.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "한국농어촌방송",
+    "darkSrc": "/images/pressLogo/dark/img78.svg",
+    "lightSrc": "/images/pressLogo/light/img78.svg",
+    "isSub": false,
+    "category": "종합/경제",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "시사저널e",
+    "darkSrc": "/images/pressLogo/dark/img79.svg",
+    "lightSrc": "/images/pressLogo/light/img79.svg",
+    "isSub": false,
+    "category": "방송/통신",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "법률방송뉴스",
+    "darkSrc": "/images/pressLogo/dark/img80.svg",
+    "lightSrc": "/images/pressLogo/light/img80.svg",
+    "isSub": false,
+    "category": "IT",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "인사이트",
+    "darkSrc": "/images/pressLogo/dark/img81.svg",
+    "lightSrc": "/images/pressLogo/light/img81.svg",
+    "isSub": false,
+    "category": "영자지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "한국중앙데일리",
+    "darkSrc": "/images/pressLogo/dark/img82.svg",
+    "lightSrc": "/images/pressLogo/light/img82.svg",
+    "isSub": false,
+    "category": "스포츠/연예",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "KBS WORLD",
+    "darkSrc": "/images/pressLogo/dark/img83.svg",
+    "lightSrc": "/images/pressLogo/light/img83.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "석간문화일보",
+    "darkSrc": "/images/pressLogo/dark/img84.svg",
+    "lightSrc": "/images/pressLogo/light/img84.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "스포츠동아",
+    "darkSrc": "/images/pressLogo/dark/img85.svg",
+    "lightSrc": "/images/pressLogo/light/img85.svg",
+    "isSub": false,
+    "category": "종합/경제",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "스포츠서울",
+    "darkSrc": "/images/pressLogo/dark/img86.svg",
+    "lightSrc": "/images/pressLogo/light/img86.svg",
+    "isSub": false,
+    "category": "방송/통신",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "파이낸셜뉴스",
+    "darkSrc": "/images/pressLogo/dark/img87.svg",
+    "lightSrc": "/images/pressLogo/light/img87.svg",
+    "isSub": false,
+    "category": "IT",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "아이뉴스24",
+    "darkSrc": "/images/pressLogo/dark/img88.svg",
+    "lightSrc": "/images/pressLogo/light/img88.svg",
+    "isSub": false,
+    "category": "영자지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "조선일보",
+    "darkSrc": "/images/pressLogo/dark/img89.svg",
+    "lightSrc": "/images/pressLogo/light/img89.svg",
+    "isSub": false,
+    "category": "스포츠/연예",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "이데일리",
+    "darkSrc": "/images/pressLogo/dark/img90.svg",
+    "lightSrc": "/images/pressLogo/light/img90.svg",
+    "isSub": false,
+    "category": "지역",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "아시아경제",
+    "darkSrc": "/images/pressLogo/dark/img91.svg",
+    "lightSrc": "/images/pressLogo/light/img91.svg",
+    "isSub": false,
+    "category": "매거진/전문지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "세계일보",
+    "darkSrc": "/images/pressLogo/dark/img92.svg",
+    "lightSrc": "/images/pressLogo/light/img92.svg",
+    "isSub": false,
+    "category": "종합/경제",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "SBS Biz",
+    "darkSrc": "/images/pressLogo/dark/img93.svg",
+    "lightSrc": "/images/pressLogo/light/img93.svg",
+    "isSub": false,
+    "category": "방송/통신",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "헤럴드경제",
+    "darkSrc": "/images/pressLogo/dark/img94.svg",
+    "lightSrc": "/images/pressLogo/light/img94.svg",
+    "isSub": false,
+    "category": "IT",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "데일리안",
+    "darkSrc": "/images/pressLogo/dark/img95.svg",
+    "lightSrc": "/images/pressLogo/light/img95.svg",
+    "isSub": false,
+    "category": "영자지",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "서울경제",
+    "darkSrc": "/images/pressLogo/dark/img96.svg",
+    "lightSrc": "/images/pressLogo/light/img96.svg",
+    "isSub": false,
+    "category": "스포츠/연예",
+    "editDate": "2023.02.10. 18.27",
+    "mainNews": {
+      "thumbnail": "https://picsum.photos/320/200",
+      "title": "또 국민연금의 몽니…현대百 지주사 불발"
+    },
+    "subNews": [
+      "이재명 \"못 먹으니 부수나…고속道 백지화 선언, 백지화돼야\"",
+      "'로톡 변호사 123명 징계' 적절했나…법무부 20일 징계위",
+      "경찰 '미신고 영아' 수사 780건으로 늘어…사망 27명",
+      "한상혁 '면직 효력정지' 항고심 13일 심문…이달 중 결론날듯",
+      "저커버그-머스크 SNS 격투 '현피'…명운 건 공룡대전 막 올랐다",
+      "특례보금자리론 유효 신청금액 28조원…공급목표 71% 채워"
+    ]
+  }
+]

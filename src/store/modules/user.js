@@ -1,18 +1,23 @@
 // 구독 여부, 다크모드
 export default {
   state: {
-    isSubscribe: false, // 각신문사 개수만큼 필요함. 배열로 관리
-    isDarkMode: false
+    isDarkMode: false,
+    currentPage: 1
   },
   mutations: {
-    SET_USER_STATE(state, newState) {
-      state.isSubscribe = newState.isSubscribe
-      state.isDarkMode = newState.isDarkMode
+    SET_USER_MODE(state, newState) {
+      state.isDarkMode = newState
+    },
+    SET_CURRENT_PAGE(state, newState) {
+      state.currentPage = newState
     }
   },
   actions: {
-    setUserState({ commit }, newState) {
-      commit('SET_USER_STATE', newState)
+    setUserMode({ commit }, newState) {
+      commit('SET_USER_MODE', newState)
+    },
+    setCurrentPage({ commit }, newState) {
+      commit('SET_CURRENT_PAGE', newState)
     }
   }
 }
