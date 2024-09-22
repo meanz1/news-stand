@@ -61,10 +61,12 @@ const maxPage = 4
 
 const changeViewState = (message) => {
   store.dispatch('setViewState', message === 'grid' ? true : false)
+  store.dispatch('setCurrentPage', 1)
 }
 
 const changePressState = (message) => {
   store.dispatch('setPressState', message === 'all' ? true : false)
+  store.dispatch('setCurrentPage', 1)
 }
 
 const prevPage = () => {

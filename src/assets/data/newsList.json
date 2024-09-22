@@ -4,7 +4,7 @@
     "name": "YTN 사이언스",
     "darkSrc": "/images/pressLogo/dark/img1.svg",
     "lightSrc": "/images/pressLogo/light/img1.svg",
-    "isSub": false,
+    "isSub": true,
     "category": "종합/경제",
     "editDate": "2023.02.10. 18.27",
     "mainNews": {
@@ -109,7 +109,7 @@
     "name": "대전방송",
     "darkSrc": "/images/pressLogo/dark/img6.svg",
     "lightSrc": "/images/pressLogo/light/img6.svg",
-    "isSub": false,
+    "isSub": true,
     "category": "매거진/전문지",
     "editDate": "2023.02.10. 18.27",
     "mainNews": {
